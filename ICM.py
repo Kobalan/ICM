@@ -3,8 +3,6 @@
 import pandas as pd
 import numpy as np
 import streamlit as st
-from streamlit_option_menu import option_menu
-import streamlit.components.v1 as components
 from datetime import date
 import pickle
 #2.Page Configuration
